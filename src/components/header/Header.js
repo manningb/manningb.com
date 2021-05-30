@@ -46,12 +46,12 @@ function Header() {
           )}
           {viewExperience && (
             <li>
-              <a href="#experience">Work Experiences</a>
+              <a href="#experience">Work Experience</a>
             </li>
           )}
           {viewOpenSource && (
             <li>
-              <a href="#opensource">Open Source</a>
+              <a href="#opensource">GitHub Projects</a>
             </li>
           )}
           {viewAchievement && (
@@ -59,9 +59,14 @@ function Header() {
               <a href="#achievements">Achievements</a>
             </li>
           )}
+          <li>
+            <a href="https://blog.manningb.com">Blog</a>
+          </li>
+
           {viewBlog && (
             <li>
-              <a href="#blogs">Blogs</a>
+              <a href="#blogs">Blog</a>
+              {/* <a href="https://blog.manningb.com">Blog</a> */}
             </li>
           )}
           {viewTalks && (
