@@ -93,7 +93,7 @@ const educationInfo = {
       subHeader: "Master of Science in Computer Science",
       duration: "September 2020 - December 2021",
       // desc: "Participated in the research of XXX and published 3 papers.",
-      descBullets: ["Current GPA: 4.13/4.2"]
+      descBullets: ["Current GPA: 4.13/4.2 "]
     },
     {
       schoolName: "University College Dublin",
