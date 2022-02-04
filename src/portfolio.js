@@ -16,8 +16,8 @@ const greeting = {
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀, currently studying Computer Science in UCD, Dublin."
   ),
-  resumeLink:
-    "https://drive.google.com/file/d/14Cj0RlWQfc8hycQdZdB-7XHOmvw-QDHm/view?usp=sharing",
+  // resumeLink:
+  //   "https://drive.google.com/file/d/14Cj0RlWQfc8hycQdZdB-7XHOmvw-QDHm/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
